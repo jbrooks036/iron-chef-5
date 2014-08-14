@@ -1,0 +1,15 @@
+{
+  "_id":{"$oid":"000000000000000000000001"},
+  "name":"Biscuits",
+  "ingredients":["flour", "water", "baking Powder", "shortening"],
+  "photo":"http://images.com/bob.jpg",
+  "directions":{"directions":"mix flour and water and shortening and baking powder; then bake on cookie sheet for 15 min."},
+}
+{
+  "_id":{"$oid":"000000000000000000000002"},
+  "name":"Gravy",
+  "ingredients":["flour", "water", "Chicken broth"],
+  "photo":"http://images.com/bob.jpg",
+  "directions":{"directions":"mix flour and water and chicken broth; then heat on low and stir until thick."},
+}
+
